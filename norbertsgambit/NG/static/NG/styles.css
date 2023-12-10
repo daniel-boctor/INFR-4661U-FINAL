@@ -1,0 +1,16 @@
+.navbar {
+    margin-bottom: 10px;
+}
+
+.errorlist {
+    color: red;
+}
+
+.table-fit {
+    width: auto;
+}
+
+.table-fit-center {
+    width: auto;
+    margin: auto;
+}
